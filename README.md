@@ -14,5 +14,8 @@ Time Series Analysis: Pandas was used to resample data by day and create a line 
 Attack Vectors Distribution: A pie chart was created to show the proportion of different attack vectors (TCP, UDP, ICMP).
 Attack Frequency by Host and Type: A grouped bar chart was used to analyze the number of attacks per host categorized by attack type.
 
+# Data Source:
+The data was obtained from Secrepo (https://www.secrepo.com/), a reliable source of honeypot data. The dataset is available in CSV format and includes various fields such as DateTime, host, source IP, protocol, attack type, source port, destination port, country, latitude, and longitude. This comprehensive dataset allows for a detailed analysis of attack patterns and trends.
+
 # Conclusions:
 The analysis provided important information about how and when attacks happen. It helped us find high-risk areas and times when attacks are more frequent. By understanding which types of attacks are most common and which hosts are most vulnerable, we can create better cybersecurity strategies.
