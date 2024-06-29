@@ -1,0 +1,16 @@
+# Results and Conclusions
+# Results:
+
+1. Geographical Distribution of Attack Origins:
+
+
+Hotspots of attack activity were identified, highlighting regions with higher attack frequencies in a scatter plot format. Hotspots include – Tokyo, Russia, Brazil etc.
+2.
+Time Series Analysis of Attack Frequency:
+Spikes in attack activity were observed, particularly in August and September, indicating periods of increased vulnerability in a line graph format. Spike was observed in early August and September, the reasons behind this spike could be because of one of three factors – seasonal patterns, new vulnerability exploitation and hacking campaigns.
+3.
+Attack Vectors Distribution:
+TCP was the most common attack vector, emphasizing the need for robust TCP security measures in a Pie chart format. The highest Attack vector is TCP which is the most vulnerable attack vector usually.
+4.
+Attack Frequency by Host and Type:
+Certain hosts were more susceptible to specific types of attacks, allowing for targeted security improvements. According to the data the Honeypot present at Tokoyo received the highest number of attacks followed by the Singapore host represented in a stacked bar graph format.
